@@ -141,6 +141,7 @@ Unlike other awesome-ai lists that focus on frameworks and SDKs, this list focus
 - [Swarm (OpenAI)](https://github.com/openai/swarm) — Experimental framework for multi-agent orchestration with handoffs.
 - [Agency Swarm](https://github.com/VRSEN/agency-swarm) — Framework for creating collaborative AI agent swarms.
 - [Mastra](https://github.com/mastra-ai/mastra) — TypeScript agent framework with workflows and multi-agent support.
+- [AIWG](https://github.com/jmagly/aiwg) — Project-owned agents, skills, and governed workflows across coding platforms.
 - [Agent Protocol](https://agentprotocol.ai) — Standard protocol for agent interoperability. Used by AutoGPT and others.
 
 ## Agent Observability
